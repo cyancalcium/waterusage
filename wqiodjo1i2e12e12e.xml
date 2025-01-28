@@ -11,7 +11,7 @@
     function openHW() {
  
 var win = window.open();
-var url = "aHR0cHM6Ly9pbWFnZXMtb3BlbnNvY2lhbC5nb29nbGV1c2VyY29udGVudC5jb20vZ2FkZ2V0cy9pZnI/dXJsPWh0dHBzOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvOTNlODIzMHMyZW0zZTgwczkyM21lczIwMzllOHMyMDMwMm1zM2UwOTJlMjNlODI5MHMwczNrOGVzMjAzOWU4L2F0dGFjaC83NDlhNmM2MzgxMGViL20yM29raWRvMTFkaW8yOTBkMTA5MmlkLnhtbD9wYXJ0PTAuMSZjb250YWluZXI9aWc=";
+var url = "aHR0cHM6Ly9pbWFnZXMtb3BlbnNvY2lhbC5nb29nbGV1c2VyY29udGVudC5jb20vZ2FkZ2V0cy9pZnI/dXJsPWh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9jeWFuY2FsY2l1bS93YXRlcnVzYWdlQHJlZnMvaGVhZHMvbWFpbi9tMjNva2lkbzExZGlvMjkwZDEwOTJpZC54bWwmY29udGFpbmVyPWln";
 var iframe = win.document.createElement('iframe');
 iframe.style.width = "100%";
 iframe.style.height = "100%";
