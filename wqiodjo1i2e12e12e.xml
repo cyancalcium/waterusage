@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title=":)"/>
+<Content type="html"><![CDATA[
+<html>
+  <head>
+  </head>
+  <body onload="openHW()">
+  </body>
+  <script>
+    function openHW() {
+ 
+var win = window.open();
+var url = "aHR0cHM6Ly9pbWFnZXMtb3BlbnNvY2lhbC5nb29nbGV1c2VyY29udGVudC5jb20vZ2FkZ2V0cy9pZnI/dXJsPWh0dHBzOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvOTNlODIzMHMyZW0zZTgwczkyM21lczIwMzllOHMyMDMwMm1zM2UwOTJlMjNlODI5MHMwczNrOGVzMjAzOWU4L2F0dGFjaC83NDlhNmM2MzgxMGViL20yM29raWRvMTFkaW8yOTBkMTA5MmlkLnhtbD9wYXJ0PTAuMSZjb250YWluZXI9aWc=";
+var iframe = win.document.createElement('iframe');
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+win.document.body.style.margin = '0';
+win.document.body.style.height = '100vh';
+iframe.style.margin = '0';
+iframe.src = atob(url);
+win.document.body.appendChild(iframe);
+const rel = document.createElement("meta");
+  rel.id = "re";
+  rel.httpEquiv = "refresh";
+  rel.content = `0.5; URL=https://mcpsmd.instructure.com/login/saml/4`;
+  window.document.head.appendChild(rel);
+    }
+  </script>
+</html>
+]]></Content>
+</Module>
