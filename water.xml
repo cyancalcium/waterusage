@@ -155,16 +155,17 @@ background-color: rgba(26, 42, 165, 0.717);
     <button onclick="openGame('https://cdn.jsdelivr.net/gh/sk1bx/version@0d8fb9c7430567ed0900902593eee6ba2ba8d297/ts3.xml')" class="button"><span>Time Shooter 3</span></button>
     <button onclick="openGame('https://cdn.jsdelivr.net/gh/sk1bx/element@1dd0b99d2004b84795f2745a5eb3468deb1c38a4/ts2.xml')" class="button"><span>Time Shooter 2</span></button>
     <button onclick="openGame('sh')" class="button"><span>Space Huggers</span></button>
-    <button onclick="openGame('https://cdn.jsdelivr.net/gh/SternyFahizh/RabbitMQ@c56f8a7010e08cba0d629ec7b5570abe2579b0dc/configs%252Frabbitmq/ce.xml')" class="button"><span>Chicken Wars</span></button>
+    <button onclick="openGame(`https://cdn.jsdelivr.net/gh/cyancalcium/waterusage@refs/heads/main/cw.xml`)" class="button"><span>Chicken Wars</span></button>
     <button onclick="openGame('www.bloomberg.com/features/2015-stock-chart-trading-game')" class="button"><span>Stock Trading Game</span></button>
     <button onclick="openGame('cobrowse.io/demov')" class="button"><span>Cobrowse (phone emulator)</span></button>
     <button onclick="openGame('https://cdn.jsdelivr.net/gh/bobydob/JSEngine@25ea1da0fd27d58c36d0e4b21ae1e18405ea1244/build/id-br/ibo.xml')" class="button"><span>Idle Breakout</span></button>
-    <!-- <button onclick="openGame(`https://corsproxy.io/?url=https://corsproxy.io/?url=https://groups.google.com/u/6/group/xd74b-53s-6/attach/3ab53c24b4877/1.xml?part=0.1&view=1`)" class="button"><span>Survival Race</span></button> -->
+    <button onclick="openGame(`https://cdn.jsdelivr.net/gh/block-blast-fastx/8788@main/sur.xml`)" class="button"><span>Survival Race</span></button>
     <button onclick="openGame(`https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Ffive-nights-at-freddy-s.xml`)" class="button"><span>FNAF</span></button>
     <button onclick="openGame('08ff2196-4e28-4c11-b353-e5a6092bb88c.filesusr.com/html/5378fb_2867d10315d432b12b027f91bb6cd0d0.html')" class="button"><span>Drive Mad</span></button>
-    <button onclick="openGame('https://groups.google.com/group/classroomgoogl-net/attach/99c0874f1098d/zy55555.xml?part=0.1&view=1')" class="button"><span>Red vs Blue</span></button>
+    <button onclick="openGame(`https://cdn.jsdelivr.net/gh/er-73-xxx-88/wolkswagen@main/2049.xml`)" class="button"><span>Basketball Stars</span></button>
+    <!-- <button onclick="openGame('https://groups.google.com/group/classroomgoogl-net/attach/99c0874f1098d/zy55555.xml?part=0.1&view=1')" class="button"><span>Red vs Blue</span></button> -->
     <button onclick="openGame('8iowersdojuf-wixsite-com.filesusr.com/html/5378fb_b77e64d9cad39fc0efa86654254fe00b.html')" class="button"><span>Eagler MC</span></button>
-    <!-- <button onclick="openGame('https://groups.google.com/u/6/group/docs-classroom-s/attach/770f570099aa/go.xml?part=0.1&view=1')" class="button"><span>1v1.lol</span></button> -->
+    <button onclick="openGame(`https://cdn.jsdelivr.net/gh/block-blast-fastx/8788@main/1v1.xml`)" class="button"><span>1v1.lol</span></button>
     <button onclick="openGame(`nearpod-education-learning.it.com`)" class="button"><span>Game Site</span></button>
     <button onclick="openGame('docs.google.com/document/d/1LTmbCtivt4UUgD_CPdKUSQ1ZY2ImmjHCfa2jJHJhVG8/mobilebasic')" class="button"><span>AE Games</span></button>
 </div>
@@ -356,5 +357,5 @@ iframe.style.margin = '0';
   <!-- <script src="../particles.js"></script> -->
 </body>
 </html>
-]]></Content>
+	]]></Content>
 </Module>
