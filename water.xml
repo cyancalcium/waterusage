@@ -170,18 +170,6 @@ background-color: rgba(26, 42, 165, 0.717);
     <button onclick="openGame('docs.google.com/document/d/1LTmbCtivt4UUgD_CPdKUSQ1ZY2ImmjHCfa2jJHJhVG8/mobilebasic')" class="button"><span>AE Games</span></button>
 </div>
 	<script type="text/javascript">
-  //       var aud = document.getElementById("ASong").children[0];
-  // var isPlaying = false;
-  // aud.pause();
-
-  // function playPause() {
-  //   if (isPlaying) {
-  //     aud.pause();
-  //   } else {
-  //     aud.play();
-  //   }
-  //   isPlaying = !isPlaying;
-  // }
 		function openGame(link) {
       if(!link.includes("https://")) {
 var win = window.open();
